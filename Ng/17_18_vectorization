@@ -1,7 +1,32 @@
-1.是什么
-  numpy点函数/硬件
-2.为什么
-  并行-高效
-3.对比
-  快多了
-4.具体实现/部分代码：
+1.parameters and features
+  参数和特征--基础函数解释
+2.对比
+  without vectorization
+{
+  for j in range (0,n):
+    f= f + w[j]*x[j]
+  f=f+b
+}
+  向量化：
+{
+  f=np.dot(w,x) + b
+  //shorter and faster
+}
+3.真正原理-后台
+  拆解步骤：
+    iteration，step by step  vs hardware,single step
+4.为什么
+  并行 inparallel-numpy点函数/硬件高效具体实现
+5.gradient descent
+  梯度下降--机器学习里的基本训练循环
+  依旧对比
+{
+    for j in range (0,16):
+      w[j] =  w[j] - 0.1 * d[j]
+}
+    向量化：
+{
+    w = w - 0.1 * d 
+}    
+
+6.coursea的lab介绍 & Please don't feel like you have to understand all the code right away ,see it as a reference to look at.....
