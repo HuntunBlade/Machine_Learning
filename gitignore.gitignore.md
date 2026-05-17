@@ -1,7 +1,0 @@
-# Obsidian
-.obsidian/workspace.json
-.obsidian/workspace-mobile.json
-.obsidian/plugins/obsidian-git/data.json
-.trash/
-.DS_Store
-Thumbs.db
