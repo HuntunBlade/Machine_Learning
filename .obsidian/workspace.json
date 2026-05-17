@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "71cc2bb141a3acc6",
+    "type": "split",
+    "children": [
+      {
+        "id": "0424de768e018477",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27089a188ba048f8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ng/Practical Tips for Linear Regression/23_Choosing the Learning Rate.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "23_Choosing the Learning Rate"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "acab1a11eb53ad04",
+    "type": "split",
+    "children": [
+      {
+        "id": "a5c1593ba572c1c8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e392578b764d6b7d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "73cabc32c7ed7fdb",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "52a459358c37a242",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "ae2322d5276c0bc3",
+    "type": "split",
+    "children": [
+      {
+        "id": "0d17331a63340023",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e11e3590f5395ec3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "62c15a2f3fb763c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "f6eb6424dbcbd6b3",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "912223f8f185d3a2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "eecf3e6cec9b2a73",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "bases:新建数据库": false
+    }
+  },
+  "active": "27089a188ba048f8",
+  "lastOpenFiles": [
+    "Ng/Practical Tips for Linear Regression/23_Choosing the Learning Rate.md",
+    "未命名.canvas",
+    "未命名.md",
+    "Ng/Practical Tips for Linear Regression/24_Feature Engineering.md",
+    "Ng/Practical Tips for Linear Regression/22_Checking Gradient Descent for Convergence.md",
+    "conflict-files-obsidian-git.md",
+    "Ng/Practical Tips for Linear Regression/20_21_Feature Scaling.md",
+    "Ng/19_gradient descent for multiple regression.md",
+    "Ng/17_18_vectorization.md",
+    "西瓜书/chapter01_绪论.md",
+    "百面机器学习/chapter01_特征工程.md",
+    "gitignore.gitignore.md",
+    "未命名.base",
+    "README.md",
+    "未命名 1.base",
+    "未命名 2.base",
+    "未命名"
+  ]
+}
