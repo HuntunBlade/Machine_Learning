@@ -31,8 +31,7 @@
               "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -192,7 +191,7 @@
       "bases:新建数据库": false
     }
   },
-  "active": "2be27d2ca6a7c83f",
+  "active": "2d21f18d983e6a0e",
   "lastOpenFiles": [
     "gitignore.gitignore.md",
     "未命名.base",
