@@ -1,0 +1,1 @@
+cost funtion 额外加式子
